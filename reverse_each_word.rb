@@ -3,5 +3,4 @@ def reverse_each_word(sentence)
     new_sentence = words.reverse
     new_sentence
   end
-
 end
